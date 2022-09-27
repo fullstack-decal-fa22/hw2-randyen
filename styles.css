@@ -155,19 +155,23 @@ h2:hover {
 .mexico-green {
   background-color: #006341;
   height: 100%;
+  width: 33.3%;
 }
 
 .mexico-img {
   /* TODO */
   align-self: center;
+  background-color: white;
+  height:100%;
+  width: 33.3%;
   max-width: 33.3%;
   max-height: 33.3%;
-
 }
 
 .mexico-red {
   background-color: #ce1126;
   height: 100%;
+  width: 33.3%;
 }
 
 /* QUESTION 6 */
@@ -183,14 +187,24 @@ h2:hover {
 /* For margin practice */
 .flag1 {
   background-color: red;
-  margin-left: 10px;
+
+  height: 300px;
+  width: 500px;
+  border-style: solid;
+  margin-bottom: 5rem;
+  margin-right: 10px;
   /* TODO */
   
 }
 
 .flag2 {
   background-color: blue;
-  margin-right: 10px;
+
+  height: 300px;
+  width: 500px;
+  border-style: solid;
+  margin-bottom: 5rem;
+  margin-left: 10px;
   /* TODO */
 }
 /* For padding practice */
